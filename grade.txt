@@ -1,0 +1,11 @@
+4,Dempsey,87,84
+1,judy,91,89
+3,Peter,50,77
+6,Marry,88,45
+9,Ryan,63,58
+8,John,77,88
+7,Nina,100,60
+5,Brian,88,45
+0,Gina,55,44
+2,Sunny,84,72
+10,Annie,98,84
